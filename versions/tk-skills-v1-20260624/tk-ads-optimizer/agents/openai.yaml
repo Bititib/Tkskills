@@ -1,0 +1,4 @@
+interface:
+  display_name: "TK广告优化"
+  short_description: "分析TikTok广告数据并给出优化建议"
+  default_prompt: "Use $tk-ads-optimizer to analyze TikTok Ads performance data and produce bid, budget, split, and pause recommendations."

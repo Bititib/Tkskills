@@ -1,0 +1,4 @@
+interface:
+  display_name: "TK达人建联"
+  short_description: "评分TikTok达人并生成建联话术"
+  default_prompt: "Use $tk-creator-outreach to score TikTok creators and generate personalized outreach messages for affiliate collaboration."

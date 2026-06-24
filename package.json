@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "tk:sample": "node tk-seller-automation/scripts/generate_sample_input_data.js",
+    "tk:daily": "node tk-seller-automation/scripts/run_daily_pipeline.js",
+    "tk:api-check": "node tk-seller-automation/scripts/check_api_readiness.js",
+    "tk:competitor-queue": "node tk-competitor-video-research/scripts/create_competitor_collection_queue.js data/input/competitor_accounts.csv data/output/competitor_collection_queue.csv",
+    "tk:competitor-analyze": "node tk-competitor-video-research/scripts/analyze_competitor_videos.js data/input/competitor_videos.csv data/output/competitor_video_scores.csv"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.3.0"
+  }
+}

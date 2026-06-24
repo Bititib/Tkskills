@@ -1,0 +1,4 @@
+interface:
+  display_name: "TK对标视频分析"
+  short_description: "收集并分析对标账号视频数据"
+  default_prompt: "Use $tk-competitor-video-research to analyze benchmark TikTok account videos and generate replicable content insights."

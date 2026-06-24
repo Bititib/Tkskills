@@ -1,0 +1,9 @@
+node_modules/
+.codex-video-analysis/
+video_frames_*/
+data/output/*
+!data/output/.gitkeep
+
+*.log
+.env
+.env.*

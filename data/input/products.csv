@@ -1,0 +1,4 @@
+product,category,country,selling_price,product_cost,shipping_cost,commission_rate,trend_score,content_score,competition_score,supplier_score
+Mini Blender,Kitchen,US,29.99,8,4,12,82,78,45,70
+Pet Hair Remover,Pet Supplies,US,19.99,4.5,3.2,12,75,84,58,68
+Travel Makeup Bag,Beauty,UK,24.99,6.2,3.8,12,70,72,50,74

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TK AI选品"
+  short_description: "TikTok Shop跨境选品评分和利润分析"
+  default_prompt: "Use $tk-product-research to analyze a TikTok Shop product category, country, and budget into a structured product research report."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TK卖家自动化"
+  short_description: "串联选品、内容、广告和达人分析生成日报"
+  default_prompt: "Use $tk-seller-automation to run the TikTok Shop seller daily automation pipeline and generate a review-ready report."
